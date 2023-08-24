@@ -12,5 +12,5 @@ Process included in this project are:
 * Drowsy Prediction using CNN model
 
 When this program is running, there will be 2 windows showing up, i.e. image acquisition with landmark predicted, and EAR graph with other information.
-![alt text](https://github.com/Lieyanto01/DrowsyPred/blob/main/Screenshot%20(2839).png)
+![alt text](https://github.com/Lieyanto01/DrowsyPred/blob/main/Screenshot%20(2878).png)
 ![alt text](https://github.com/Lieyanto01/DrowsyPred/blob/main/Screenshot%20(2881).png)
